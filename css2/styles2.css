@@ -2,5 +2,19 @@ h1{
 	font-size: 60px;
 	font-family:Arial, Helvetica, sans-serif;
 	color: wheat;
+	align-items: center;
 
+}
+
+body{
+	background-color: forestgreen;
+}
+ul{
+	align-items:right;
+}
+li{
+	align-items:center;
+}
+img{
+	align-items:center;
 }
