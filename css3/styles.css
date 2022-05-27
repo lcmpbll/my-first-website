@@ -1,0 +1,9 @@
+.side-bar {
+	border: 10px solid black;
+	width: 250px;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;
+	margin: auto;
+	position: fixed;
+}

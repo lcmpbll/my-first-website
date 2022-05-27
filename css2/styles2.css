@@ -13,8 +13,14 @@ ul{
 	align-items:right;
 }
 li{
+	margin-right: 50%;
 	align-items:center;
+	margin: auto;
 }
 img{
 	margin: auto;
+	width: 30%;
+	height: auto;
+	float: center;
+	box-sizing: border-box;
 }
