@@ -36,4 +36,4 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 _Feel free to reach out with any questions or comments._
 
-Copyright (c) _5/26/22_ _Liam Campbell_
+[Copyright](LICENSE) (c) _5/26/22_ _Liam Campbell_
