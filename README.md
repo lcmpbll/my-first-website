@@ -29,11 +29,11 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _Any known issues_
+* _This is still a work in progress, I am still learning._
 * _should go here_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Feel free to reach out with any questions or comments._
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _5/26/22_ _Liam Campbell_
