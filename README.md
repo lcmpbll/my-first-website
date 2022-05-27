@@ -20,17 +20,13 @@
 ## Setup/Installation Requirements
 
 * Navigate to your desktop in the terminal. 
-* $ git clone 
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* $ git clone https://github.com/lcmpbll/my-first-website
+* $code .
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
 * _This is still a work in progress, I am still learning._
-* _should go here_
 
 ## License
 
